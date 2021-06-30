@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FA-MatSci
-- 👀 I’m interested in networking and working on joint projects.
-- 💞️ I’m looking to collaborate on projects where I can use my skills that I have acquired.
+- 👋 Hi, I’m Filip.
+- 👀 I’m interested to contribute to Python/data science projects (OOP, pandas, NumPy).
+- 💞️ Feel free to play the game that I have created (Who Wants to be a Millionaire)!
 - 📫 How to reach me: filip.ambroz5@gmail.com
 
 <!---
