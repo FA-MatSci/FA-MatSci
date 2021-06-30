@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FA-MatSci
 - 👀 I’m interested in networking and working on joint projects.
-- 🌱 I’m currently learning Python, specifically OOP, NumPy, Pandas.
 - 💞️ I’m looking to collaborate on projects where I can use my skills that I have acquired.
 - 📫 How to reach me: filip.ambroz5@gmail.com
 
