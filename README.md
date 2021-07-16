@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip.
-- 👀 I’m interested to contribute to Python/data science projects (OOP, pandas, NumPy).
+- 👀 I’m interested to contribute to Python/data science projects.
 - 💞️ Feel free to play the game that I have created (Who Wants to be a Millionaire)!
 - 📫 How to reach me: filip.ambroz5@gmail.com
 
