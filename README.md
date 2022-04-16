@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filip.
 
-- 📫 How to reach me: filip.ambroz5@gmail.com
+- 📫 Materials/Process Engineer by Profession, Computer Scientist by heart.
 
 <!---
 FA-MatSci/FA-MatSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
