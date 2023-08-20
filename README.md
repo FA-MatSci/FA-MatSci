@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filip.
 
-- 📫 Materials/Process Engineer by Profession, Computer Scientist by heart.
+- 📫 Background in Materials Science, enthusiastic about Data Science.
 
 <!---
 FA-MatSci/FA-MatSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
